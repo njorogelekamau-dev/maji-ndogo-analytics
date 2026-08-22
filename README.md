@@ -25,4 +25,4 @@ This table tracks the status of each analytical module. Completed work is marked
 - **Source Policy**: Raw data (.db, .csv) and notebooks (.ipynb) are excluded by design to prioritize professional documentation. 
 
 ---
-*Maintained by [Your Name/Username]* 
+*Maintained by [Njoroge Kamau]* 
