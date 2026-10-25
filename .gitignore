@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Portfolio source policy: data, notebooks and trained models never ship
+*.db
+*.csv
+*.ipynb
+*.pkl
